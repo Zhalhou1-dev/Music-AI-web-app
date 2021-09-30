@@ -2,3 +2,10 @@
     width: 100%;
     margin:0;
 }
+body{
+    background-size:cover;
+
+}
+canvas{
+border: 5px solid black;
+}
