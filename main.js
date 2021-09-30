@@ -38,3 +38,6 @@ function gotPoses(results){
     
     }
     }
+function modelLoaded(){
+    console.log('Posenet is Initialized!');
+}
