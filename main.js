@@ -39,5 +39,5 @@ function gotPoses(results){
     }
     }
 function modelLoaded(){
-    console.log('Posenet is Initialized!');
+    console.log('poseNet is  Initialized');
 }
